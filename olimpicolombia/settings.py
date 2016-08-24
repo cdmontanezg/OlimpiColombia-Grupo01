@@ -119,10 +119,10 @@ WSGI_APPLICATION = 'olimpicolombia.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'olimpicolombia',
-        'USER': 'agiles',
-        'PASSWORD': 'agiles',
-        'HOST': 'localhost',
+        'NAME': 'deo8f3apr14ojr',
+        'USER': 'zbfzrvlbltxjqj',
+        'PASSWORD': '1JoRPot4DNr4VEtW9nq01L3Ub3',
+        'HOST': 'ec2-54-235-202-71.compute-1.amazonaws.com',
         'PORT': '',
     }
 }
